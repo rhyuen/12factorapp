@@ -1,0 +1,15 @@
+{
+  "name": "fileupload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.2",
+    "express-fileupload": "0.3.0",
+    "nodemon": "1.12.5",
+    "path": "0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
